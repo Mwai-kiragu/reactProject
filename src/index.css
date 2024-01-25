@@ -1,0 +1,15 @@
+.list li{
+  display: inline-block;
+  margin: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  width: 150px !important;
+}
+
+.displayImage{
+  height: 300px !important;
+}
+
+/* .container-fluid{
+  background-color: black !important;
+} */
